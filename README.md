@@ -1,10 +1,18 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<!--
-**Adrian-glz01/Adrian-glz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started: 
--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+AdrianGlz01;Computer+engineering;Full-Stack+developer;Problem+Solver;Technology+lover;Code-Source+Enthusiast&center=true&width=500&height=50"></a>
+</p>
+
+<br>
+
+<div align="center">
+I'm a computer engineer with one year of experience as a full-stack developer. I have a strong background in software development, system design, and problem-solving. Passionate about technological innovation, with teamwork skills and a desire to improve daily.
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
